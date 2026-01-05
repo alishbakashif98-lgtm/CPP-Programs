@@ -1,5 +1,5 @@
 /*
-Program Name: increment_decrement.cpp
+Program Name: Increment_decrement.cpp
 Description: This program demonstrates the use of C++ increment (++) 
              and decrement (--) operators. 
              - Increment operator (++) increases a variable's value by 1.
