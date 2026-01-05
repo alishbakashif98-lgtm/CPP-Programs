@@ -18,3 +18,13 @@ The Area of triangle is:22.5
 Enter the number: 5
 The sum is: 15
 ```
+
+---
+
+## Quadratic-roots.cpp
+```
+Enter a: 1
+Enter b: -5
+Enter c: 6
+The roots are: 3 and 2
+```
