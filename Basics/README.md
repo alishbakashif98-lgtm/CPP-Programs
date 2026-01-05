@@ -28,3 +28,14 @@ Enter b: -5
 Enter c: 6
 The roots are: 3 and 2
 ```
+---
+
+## Compound-assignment.cpp
+```
+Initial values: a = 10, b = 5
+After a += b, a = 15
+After a -= b, a = 10
+After a *= b, a = 50
+After a /= b, a = 10
+After a %= b, a = 0
+```
