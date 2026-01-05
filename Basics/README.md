@@ -39,3 +39,13 @@ After a *= b, a = 50
 After a /= b, a = 10
 After a %= b, a = 0
 ```
+---
+
+## Increment-Decrement.cpp
+```
+Initial values: x = 5, y = 10
+After x++: x = 6
+After ++x: x = 7
+After y--: y = 9
+After --y: y = 8
+```
