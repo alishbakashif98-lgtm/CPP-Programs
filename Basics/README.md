@@ -57,3 +57,13 @@ Initial value of num: 2147483647
 Value of num after overflow: -2147483648
 ```
 ---
+
+## Bitwise-operator.cpp
+```
+Bitwise AND (a & b): 1
+Bitwise OR (a | b): 7
+Bitwise XOR (a ^ b): 6
+Bitwise NOT (~a): -6
+Left Shift (a << 1): 10
+Right Shift (a >> 1): 2
+```
