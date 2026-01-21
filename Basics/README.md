@@ -58,7 +58,7 @@ Value of num after overflow: -2147483648
 ```
 ---
 
-## Bitwise-operator.cpp
+## Bitwise-operators.cpp
 ```
 Bitwise AND (a & b): 1
 Bitwise OR (a | b): 7
