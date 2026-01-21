@@ -74,3 +74,9 @@ Right Shift (a >> 1): 2
 Value of d (Wednesday): 2
 ```
 ---
+
+## typedef.cpp
+```
+The marks are: 85
+```
+---
