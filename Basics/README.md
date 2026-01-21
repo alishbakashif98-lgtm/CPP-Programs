@@ -80,3 +80,12 @@ Value of d (Wednesday): 2
 The marks are: 85
 ```
 ---
+
+## Salary-calculation
+```
+Enter Basic Salary: 1000
+Enter percent of Allowances: 20
+Enter percent of Deductions: 5
+Net Salary is: 1150
+```
+---
