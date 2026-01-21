@@ -67,3 +67,10 @@ Bitwise NOT (~a): -6
 Left Shift (a << 1): 10
 Right Shift (a >> 1): 2
 ```
+---
+
+## enum-typedef.cpp
+```
+Value of d (Wednesday): 2
+```
+---
