@@ -1,5 +1,5 @@
 /*
-Program Name: Enum_Day.cpp
+Program Name: enum_Day.cpp
 Description: This program demonstrates the use of enum (Enumeration) in C++.
              - enum is a user-defined data type.
              - It is used to assign names to integral constant values.

@@ -69,7 +69,7 @@ Right Shift (a >> 1): 2
 ```
 ---
 
-## enum-typedef.cpp
+## enum-Day.cpp
 ```
 Value of d (Wednesday): 2
 ```
