@@ -1,14 +1,26 @@
-#include<iostream>
-using namespace std;
-int main(){
+#include<iostream>  // Include the library for input/output operations
+using namespace std; // Use the standard namespace
 
-    int a , b;
+int main() {
+
+    // Declare two integer variables to store numbers
+    int a, b;
+
+    // Display message asking the user to enter two numbers
     cout << "Enter two numbers : ";
-    cin >> a;
-    cin >> b;
+
+    // Take input from the user
+    cin >> a >> b;
+    
+
+    // Conditional statement: check which number is greater
     if(a > b)
-    cout << "Maximum number is "<< a ;
+        // If 'a' is greater than 'b', this line will execute
+        cout << "Maximum number is " << a;
     else
-    cout << "Maximum number is "<< b ;
+        // If 'b' is greater than or equal to 'a', this line will execute
+        cout << "Maximum number is " << b;
+
+    // Return 0 to indicate that the program ended successfully
     return 0;
 }
