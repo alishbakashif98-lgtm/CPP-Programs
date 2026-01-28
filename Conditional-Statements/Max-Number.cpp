@@ -1,26 +1,26 @@
-#include<iostream>  // Include the library for input/output operations
-using namespace std; // Use the standard namespace
+/*
+Program: Maximum of Two Numbers
+Definition: This program finds the maximum of two numbers provided by the user.
+Input: Two integer numbers
+Output: The maximum number
+*/
+
+#include<iostream>  // header file for input-output operations
+using namespace std; // using standard namespace
 
 int main() {
 
-    // Declare two integer variables to store numbers
-    int a, b;
+    int a, b; // variables to store two numbers
 
-    // Display message asking the user to enter two numbers
-    cout << "Enter two numbers : ";
-
-    // Take input from the user
+    // Input: user provides two numbers
+    cout << "Enter two numbers: ";
     cin >> a >> b;
-    
 
-    // Conditional statement: check which number is greater
+    // Processing & Output: determine and display the maximum number
     if(a > b)
-        // If 'a' is greater than 'b', this line will execute
         cout << "Maximum number is " << a;
     else
-        // If 'b' is greater than or equal to 'a', this line will execute
         cout << "Maximum number is " << b;
 
-    // Return 0 to indicate that the program ended successfully
-    return 0;
+    return 0; // ends the program
 }
