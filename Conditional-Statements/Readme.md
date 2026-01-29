@@ -35,7 +35,7 @@ Not eligible
 ---
 
 ## Nested-if.cpp
-``
+```
 Enter three numbers : 34
 23
 96
