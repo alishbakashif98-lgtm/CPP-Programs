@@ -17,3 +17,11 @@ Division by zero
 ```
 
 ---
+
+## Logical-op.cpp
+```
+Enter hours :16
+Working hours
+```
+
+---
