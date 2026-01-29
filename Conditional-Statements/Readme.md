@@ -65,3 +65,11 @@ Grade is B
 ```
 
 ---
+
+
+## else-if-ladder.cpp
+```
+Enter the day number : 5
+The day is Friday
+
+---
