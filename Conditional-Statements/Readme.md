@@ -71,5 +71,5 @@ Grade is B
 ```
 Enter the day number : 5
 The day is Friday
-
+```
 ---
