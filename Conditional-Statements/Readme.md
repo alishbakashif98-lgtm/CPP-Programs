@@ -9,7 +9,7 @@ Maximum number is 45
 
 ---
 
-## Max-Numbers.cpp
+## Division.cpp
 ```
 Enter first number: 34
 Enter second number: 0
