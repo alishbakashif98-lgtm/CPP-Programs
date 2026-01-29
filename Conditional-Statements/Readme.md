@@ -54,3 +54,14 @@ Roots are real and unequal
 ```
 
 ---
+
+
+## Grades.cpp
+```
+Enter marks of 3 subjects : 65
+78
+45
+Grade is B
+```
+
+---
