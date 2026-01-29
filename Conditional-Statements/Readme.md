@@ -33,3 +33,13 @@ Not eligible
 ```
 
 ---
+
+## Nested-if.cpp
+``
+Enter three numbers : 34
+23
+96
+Maximum number is 96
+```
+
+---
