@@ -73,3 +73,11 @@ Enter the day number : 5
 The day is Friday
 ```
 ---
+
+
+## Switch-case.cpp
+```
+Enter the day number : 17
+Invalid day
+```
+---
