@@ -43,3 +43,14 @@ Maximum number is 96
 ```
 
 ---
+
+## Naturs-of-root.cpp
+```
+Enter a , b and c : 12
+45
+7
+Roots are real and unequal
+-43 and -46
+```
+
+---
