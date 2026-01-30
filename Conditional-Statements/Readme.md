@@ -81,3 +81,19 @@ Enter the day number : 17
 Invalid day
 ```
 ---
+
+
+## Menu.cpp
+```
+Menu
+ 1. Add
+ 2. Subtract
+ 3. Multiply
+ 4. Divide
+Enter your choice : 3
+Enter two numbers : 2
+5
+The result is : 10
+```
+
+---
