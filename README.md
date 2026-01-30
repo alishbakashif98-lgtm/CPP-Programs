@@ -5,3 +5,4 @@ This repository currently contains programs in the **Basics** folder, making it 
 ## Folder Structure
 
 - **Basics** – Simple programs like Hello World, Triangle Area, Quadratic roots, Sum of numbers etc.
+- **Conditional-Statements** – Programs demonstrating decision-making using if, if-else, nested if, switch statements etc..
