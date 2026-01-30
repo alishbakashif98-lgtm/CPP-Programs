@@ -97,3 +97,13 @@ The result is : 10
 ```
 
 ---
+
+## Bill.cpp
+```
+Enter your bill amount : 456
+Your bill amount is : 456
+Discount is : 45.6
+Bill amount after discount is : 410.4
+```
+
+---
