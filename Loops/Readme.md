@@ -58,3 +58,12 @@ Perfect number
 ```
 
 ---
+
+
+## Prime-num.cpp
+```
+Enter a number : 13
+13 is a prime number
+```
+
+---
