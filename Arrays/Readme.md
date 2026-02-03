@@ -25,3 +25,17 @@ Maximum number is : 15
 
 ---
 
+## Linear-search.cpp
+```
+Enter the numbers : 
+45
+67
+34
+90
+12
+Enter the key : 90
+Key is found at index 3
+```
+
+---
+
