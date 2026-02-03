@@ -42,3 +42,11 @@ The sum of 6 is : 21
 ```
 
 ---
+
+## Factorial.cpp
+```
+Enter a number : 8
+The factorial of 8 is : 40320
+```
+
+---
