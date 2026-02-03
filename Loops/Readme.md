@@ -33,3 +33,12 @@ The table of 7 is given below :
 ```
 
 ---
+
+
+## Sum.cpp
+```
+Enter a number : 6
+The sum of 6 is : 21
+```
+
+---
