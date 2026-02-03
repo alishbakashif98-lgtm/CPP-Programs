@@ -39,3 +39,11 @@ Key is found at index 3
 
 ---
 
+## Binary-search.cpp
+```
+Enter the key : 45
+Key is found at index 5
+```
+
+---
+
