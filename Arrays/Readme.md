@@ -18,3 +18,10 @@ Sum of elements of array is : 37
 
 ---
 
+## Max-num.cpp
+```
+Maximum number is : 15
+```
+
+---
+
