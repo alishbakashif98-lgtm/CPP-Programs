@@ -93,3 +93,11 @@ Reverse of number is
 ```
 
 ---
+
+## Armstrong-num.cpp
+```
+Enter a number : 153
+153 is an Armstrong number
+```
+
+---
