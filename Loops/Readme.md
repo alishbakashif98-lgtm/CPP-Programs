@@ -110,3 +110,12 @@ GCD of two numbers is : 3
 ```
 
 ---
+
+## Palindrome-num.cpp
+```
+Enter a number : 4554
+The reverse of a number is : 4554
+The number is a palindrome
+```
+
+---
