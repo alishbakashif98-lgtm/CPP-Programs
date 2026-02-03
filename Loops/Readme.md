@@ -101,3 +101,12 @@ Enter a number : 153
 ```
 
 ---
+
+## GCD.cpp
+```
+Enter first number : 45
+Enter second number : 78
+GCD of two numbers is : 3
+```
+
+---
