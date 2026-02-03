@@ -10,3 +10,11 @@
 ```
 
 ---
+
+## Display-elements.cpp
+```
+Sum of elements of array is : 37
+```
+
+---
+
