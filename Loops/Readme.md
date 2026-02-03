@@ -81,3 +81,15 @@ The factors of 45 are given below:
 ```
 
 ---
+
+## Reverse-num.cpp
+```
+Enter a number : 8576
+Reverse of number is 
+6
+7
+5
+8
+```
+
+---
