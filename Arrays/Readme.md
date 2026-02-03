@@ -11,7 +11,7 @@
 
 ---
 
-## Display-elements.cpp
+## Sum-of-elements.cpp
 ```
 Sum of elements of array is : 37
 ```
