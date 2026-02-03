@@ -50,3 +50,11 @@ The factorial of 8 is : 40320
 ```
 
 ---
+
+## Perfect-num.cpp
+```
+Enter a number : 6
+Perfect number
+```
+
+---
