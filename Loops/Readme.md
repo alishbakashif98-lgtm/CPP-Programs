@@ -67,3 +67,17 @@ Enter a number : 13
 ```
 
 ---
+
+## Factors.cpp
+```
+Enter a number : 45
+The factors of 45 are given below:
+1
+3
+5
+9
+15
+45
+```
+
+---
