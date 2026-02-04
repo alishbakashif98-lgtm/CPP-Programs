@@ -47,3 +47,13 @@ Key is found at index 5
 
 ---
 
+## Nested-loop.cpp
+```
+1 2 3 4 
+1 2 3 4
+1 2 3 4
+1 2 3 4
+```
+
+---
+
