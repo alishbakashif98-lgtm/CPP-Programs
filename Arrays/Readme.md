@@ -57,3 +57,14 @@ Key is found at index 5
 
 ---
 
+## Pattern1.cpp
+```
+* * * * * 
+* * * *
+* * *
+* *
+*
+```
+
+---
+
