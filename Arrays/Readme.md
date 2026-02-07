@@ -104,3 +104,20 @@ Key is found at index 5
 ```
 
 ---
+
+## Average.cpp
+```
+Enter number of elements : 9
+1. Enter the number : 5
+2. Enter the number : 13
+3. Enter the number : 78
+4. Enter the number : 6
+5. Enter the number : 45
+6. Enter the number : 9
+7. Enter the number : 2
+8. Enter the number : 7
+9. Enter the number : 0
+The average of elements is : 18.3333
+```
+
+---
