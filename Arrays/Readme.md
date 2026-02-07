@@ -79,3 +79,12 @@ Key is found at index 5
 
 ---
 
+## Pattern3.cpp
+```
+        *
+      * *
+    * * *
+  * * * *
+```
+
+---
