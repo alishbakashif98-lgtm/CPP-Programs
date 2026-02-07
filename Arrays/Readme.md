@@ -121,3 +121,34 @@ The average of elements is : 18.3333
 ```
 
 ---
+
+## Matrix-multiplication.cpp
+```
+Enter rows and columns for first matrix: 2
+2
+Enter rows and columns for second matrix: 3
+3
+Error! Column of first matrix not equal to row of second.
+Enter rows and columns for first matrix: 2
+2
+Enter rows and columns for second matrix: 2
+2
+
+Enter elements of matrix 1:
+Enter element a11 : 3
+Enter element a12 : 3
+Enter element a21 : 3
+Enter element a22 : 3
+
+Enter elements of matrix 2:
+Enter element b11 : 1
+Enter element b12 : 0
+Enter element b21 : 0
+Enter element b22 : 1
+
+Output Matrix:
+ 3 3
+ 3 3
+```
+
+---
