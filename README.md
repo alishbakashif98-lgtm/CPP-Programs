@@ -1,6 +1,6 @@
 # CPP-Programs
 A well-organized collection of **C++ programs** for learning and practice.  
-This repository currently contains programs in the **Basics** , **Conditional-Statements**, **Loops** and **Arrays** folder, making it easy for beginners to explore and understand C++ concepts step by step.
+This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** and **Pointers** folder, making it easy for beginners to explore and understand C++ concepts step by step.
 
 ## Folder Structure
 
@@ -8,3 +8,4 @@ This repository currently contains programs in the **Basics** , **Conditional-St
 - **Conditional-Statements** – Programs demonstrating decision-making using if, if-else, nested if, switch statements etc.
 - **Loops** – Programs demonstrating repetition of tasks using for, while, and do-while loops to reduce code redundancy.
 - **Arrays** – Programs demonstrating how to store, access, and manipulate multiple values of the same data type using arrays.
+- **Pointers** – Programs demonstrating the concepts of pointers, including pointer declaration, initialization, pointer arithmetic, and references.
