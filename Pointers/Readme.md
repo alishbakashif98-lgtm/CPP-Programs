@@ -37,3 +37,17 @@ New array elements are:
 ```
 
 ---
+
+## Pointer-arithmetic.cpp
+```
+Initial value (*p): 10
+Value at *(p + 1): 20 
+Value at *(p + 3): 40 
+After p++ , *p: 20    
+After p-- , *p: 10    
+Value at *(p - 0): 10 
+Value at *q: 50       
+Difference between q and p: 4
+```
+
+---
