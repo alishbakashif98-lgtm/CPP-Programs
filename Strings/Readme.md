@@ -8,3 +8,11 @@ Welcome Alishba Kashif
 ```
 
 ---
+
+## String-length.cpp
+```
+Enter the string : Hello World
+lenght is 11
+```
+
+---
