@@ -23,3 +23,10 @@ Concatenated String: Good Morning
 ```
 
 ---
+
+## Copy-string.cpp
+```
+Copied String: Good
+```
+
+---
