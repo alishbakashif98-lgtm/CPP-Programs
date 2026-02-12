@@ -15,6 +15,9 @@ The destination array (first string) must have enough space
 to store both strings including the null character,
 otherwise it may cause buffer overflow.
 
+Syntax:
+strcat(destination, source);
+
 Purpose:
 This program demonstrates how to join two strings
 using strcat() function in C++.
