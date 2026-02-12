@@ -16,3 +16,10 @@ lenght is 11
 ```
 
 ---
+
+## Concatenate-string.cpp
+```
+Concatenated String: Good Morning
+```
+
+---
