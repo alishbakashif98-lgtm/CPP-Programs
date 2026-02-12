@@ -44,3 +44,10 @@ Last occurrence of 'm': ming
 ```
 
 ---
+
+## String-compare.cpp
+```
+'minor' is greater than 'elder'
+```
+
+---
