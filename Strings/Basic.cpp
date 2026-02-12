@@ -1,7 +1,11 @@
 /*
 Program Name: Input Single Name and Full Name
 
-Definition:
+Definition of String:
+A string is a sequence (collection) of characters stored in a character array.
+In C++, a string can be stored using a character array (char array),
+and it ends with a special null character '\0'.
+
 cin >> variable is used to take single word input.
 cin.getline() is used to take full line input including spaces.
 
