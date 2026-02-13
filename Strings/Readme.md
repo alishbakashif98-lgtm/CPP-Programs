@@ -98,3 +98,15 @@ s2: Hello  Everyone
 ```
 
 ---
+
+## StringClass-functions3.cpp
+```
+find("World"): 6
+rfind("l"): 9
+find_first_of("od"): 4
+find_last_of("lo"): 9
+substr(6,5): World
+compare("Hello"): 6
+```
+
+---
