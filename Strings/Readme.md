@@ -82,3 +82,19 @@ After Clear, Is Empty: 1
 ```
 
 ---
+
+
+## StringClass-functions2.cpp
+```
+After append: Hello Everyone
+After insert: Hello Beautiful Everyone
+After replace: Hello Amazing  Everyone
+After erase: Hello  Everyone
+After push_back: Hello  Everyone!     
+After pop_back: Hello  Everyone       
+After swap:
+s1: World
+s2: Hello  Everyone
+```
+
+---
