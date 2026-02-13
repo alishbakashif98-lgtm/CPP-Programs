@@ -68,3 +68,17 @@ z=56
 ```
 
 ---
+
+## StringClass-functions.cpp
+```
+Length: 11
+Size: 11
+Capacity: 15
+Max Size: 2147483647
+Is Empty: 0
+After resize(5): Progr
+After resize(10, '*'): Progr*****
+After Clear, Is Empty: 1
+```
+
+---
