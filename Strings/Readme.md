@@ -59,3 +59,12 @@ Last occurrence of 'm': ming
 ```
 
 ---
+
+## String-token.cpp
+```
+x=10
+y=25
+z=56
+```
+
+---
