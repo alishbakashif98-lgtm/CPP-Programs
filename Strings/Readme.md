@@ -134,3 +134,12 @@ Lowercase string: welcome
 ```
 
 ---
+
+## Vowels-consonants.cpp
+```
+Vowels are 5
+Consonants are 4
+Words are 3
+```
+
+---
