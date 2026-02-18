@@ -143,3 +143,10 @@ Words are 3
 ```
 
 ---
+
+## Palindrome.cpp
+```
+MADAM is a Palindrome
+```
+
+---
