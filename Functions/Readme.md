@@ -18,3 +18,12 @@ Maximum number is : 76
 ```
 
 ---
+
+## Fun-overloading.cpp
+```
+Sum of two integers is: 69  
+Sum of three integers is: 45
+Sum of two floats is: 73 
+```
+
+---
