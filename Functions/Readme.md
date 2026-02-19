@@ -27,3 +27,11 @@ Sum of two floats is: 73
 ```
 
 ---
+
+## Fun-template.cpp
+```
+Maximum in two integers: 23
+Maximum in two floats: 5.1
+```
+
+---
