@@ -43,3 +43,12 @@ The sum for second time is: 19
 ```
 
 ---
+
+## Pass-by-value.cpp
+```
+Before swapping inside function: 10 and 20
+After swapping inside function: 20 and 10
+Actual values after function call: 10 and 20
+```
+
+---
