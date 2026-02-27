@@ -97,3 +97,12 @@ Final value of global variable: 5
 ```
 
 ---
+
+## Scoping-rule.cpp
+```
+First output 30
+Second output 20
+Third output 10
+```
+
+---
