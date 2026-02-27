@@ -87,3 +87,13 @@ Values after swapping: 20 and 10
 ```
 
 ---
+
+## Global-variables.cpp
+```
+Initial value of global variable: 5
+Value after increment: 6
+Value after decrement: 5
+Final value of global variable: 5
+```
+
+---
