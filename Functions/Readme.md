@@ -106,3 +106,11 @@ Third output 10
 ```
 
 ---
+
+## Static-variable.cpp
+```
+First time the value is: 11
+Second time the value is: 12
+```
+
+---
