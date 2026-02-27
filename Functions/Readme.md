@@ -133,3 +133,11 @@ Element found at index: 4
 ```
 
 ---
+
+## Pointer-to-function.cpp
+```
+Maximum: 10
+Minimum: 5
+```
+
+---
