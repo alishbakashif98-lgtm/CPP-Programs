@@ -1,4 +1,4 @@
-## Outputs of Functions
+## Outputs of FunctionS
 
 ## Add-num.cpp
 ```
