@@ -125,3 +125,11 @@ Second time the value is: 12
 ```
 
 ---
+
+## Linear-search.cpp
+```
+Enter an Element to be Searched: 10
+Element found at index: 4
+```
+
+---
