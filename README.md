@@ -1,6 +1,6 @@
 # CPP-Programs
 A well-organized collection of **C++ programs** for learning and practice.  
-This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** and **Strings** folder, making it easy for beginners to explore and understand C++ concepts step by step.
+This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** and **OOP**  folder, making it easy for beginners to explore and understand C++ concepts step by step.
 
 ## Folder Structure
 
@@ -10,4 +10,5 @@ This repository currently contains programs in the **Basics** , **Conditional-St
 - **Arrays** – Programs demonstrating how to store, access, and manipulate multiple values of the same data type using arrays.
 - **Pointers** – Programs demonstrating the concepts of pointers, including pointer declaration, initialization, pointer arithmetic, and references.
 - **Strings** – Programs demonstrating the concepts of strings, including string declaration, initialization, concatenation, comparison, and common string operations.
-
+- **Functions** – Programs demonstrating the use of user-defined functions, parameter passing (call by value, call by reference, call by address), function overloading, default arguments, recursion, and returning values.
+- **OOP** – Programs demonstrating the principles of OOP including classes, objects, constructors, member functions, encapsulation, and basic object interaction.
