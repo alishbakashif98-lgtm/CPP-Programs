@@ -7,3 +7,10 @@ Perimeter of rectangle is 30
 ```
 
 ---
+
+## Pointer-to-object.cpp
+```
+Area of rectangle is 32
+```
+
+---
