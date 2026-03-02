@@ -41,3 +41,10 @@ Perimeter of r2: 30
 ```
 
 ---
+
+## Scope-resolution.cpp
+```
+Marks of student are 85
+```
+
+---
