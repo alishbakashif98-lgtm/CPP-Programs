@@ -1,3 +1,20 @@
+/*
+Program Name: Dynamic Object Creation using new
+
+Definition:
+An object of a class can be created dynamically
+using the 'new' operator.
+
+When an object is created using 'new':
+- Memory is allocated in heap.
+- It must be accessed using a pointer.
+- Members are accessed using arrow (->) operator.
+
+In this program:
+rectangle *p;  → pointer to object
+p = new rectangle; → dynamic object creation
+*/
+
 #include<iostream>
 using namespace std;
 
@@ -5,26 +22,32 @@ class rectangle{
 
 public:
 
-int length;
-int breadth;
+    // Data Members
+    int length;
+    int breadth;
 
-int perimeter(){
-
-    return 2*(length+breadth) ;
-}
-
+    // Member Function to calculate perimeter
+    int perimeter(){
+        return 2 * (length + breadth);
+    }
 
 };
 
 int main(){
 
-rectangle *p;
-p = new rectangle;
+    // Pointer to rectangle object
+    rectangle *p;
 
-p -> length = 8 ;
-p -> breadth = 4 ;
+    // Dynamically creating object in heap memory
+    p = new rectangle;
 
-cout << "Perimeter of rectangle is " << p -> perimeter() ;
+    // Assign values using arrow operator
+    p->length = 8;
+    p->breadth = 4;
 
-return 0;
+    // Call member function using pointer
+    cout << "Perimeter of rectangle is "
+         << p->perimeter();
+
+    return 0;
 }
