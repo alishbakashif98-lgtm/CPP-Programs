@@ -14,3 +14,10 @@ Area of rectangle is 32
 ```
 
 ---
+
+## Pointer-to-object-heap.cpp
+```
+Perimeter of rectangle is 24
+```
+
+---
