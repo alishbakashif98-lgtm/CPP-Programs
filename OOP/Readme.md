@@ -21,3 +21,12 @@ Perimeter of rectangle is 24
 ```
 
 ---
+
+## DataHiding-Accessors-Mutators.cpp
+```
+Breadth of rectangle is 0
+Area of rectangle is 0
+Perimeter of rectangle is 20
+```
+
+---
