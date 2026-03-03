@@ -62,3 +62,16 @@ Marks are 90
 ```
 
 ---
+
+## Student-marks.cpp
+```
+Enter your roll number : 5
+Enter your name : Alishba
+Enter your physics number : 89
+Enter your chemistry number : 76
+Enter your maths number : 67
+Total marks : 232
+Grade of Student : A
+```
+
+---
