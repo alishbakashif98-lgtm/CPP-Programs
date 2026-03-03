@@ -48,3 +48,10 @@ Marks of student are 85
 ```
 
 ---
+
+## Inline-function.cpp
+```
+Sum is 30
+```
+
+---
