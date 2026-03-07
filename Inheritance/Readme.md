@@ -65,3 +65,11 @@ Salary: 20000
 ```
 
 ---
+
+## Hierarchical-example.cpp
+```
+Salary of Ali is 5000
+Daily wage of Ahmad is 1000
+```
+
+---
