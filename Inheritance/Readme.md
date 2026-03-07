@@ -17,3 +17,12 @@ Parameterized Derived class constructor with value y = 5
 ```
 
 ---
+
+## Access-specifier.cpp
+```
+Length is 10
+Breadth is 5
+Area is 50
+```
+
+---
