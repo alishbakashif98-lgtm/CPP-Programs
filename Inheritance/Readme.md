@@ -26,3 +26,12 @@ Area is 50
 ```
 
 ---
+
+## Multilevel-inheritance.cpp
+```
+Function of class A
+Function of class B
+Function of class C
+```
+
+---
