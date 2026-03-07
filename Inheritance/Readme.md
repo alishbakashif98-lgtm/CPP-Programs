@@ -56,3 +56,12 @@ Salary: 50000
 ```
 
 ---
+
+## Multipath-inheritance.cpp
+```
+TA Name: Ali
+Roll No: 101
+Salary: 20000
+```
+
+---
