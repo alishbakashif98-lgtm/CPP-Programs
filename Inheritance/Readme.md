@@ -45,3 +45,14 @@ Total Score: 165
 ```
 
 ---
+
+## Hierarchical-inheritance.cpp
+```
+Student Name: Ali
+Marks: 85
+
+Teacher Name: Ahmed
+Salary: 50000
+```
+
+---
