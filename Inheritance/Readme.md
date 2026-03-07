@@ -35,3 +35,13 @@ Function of class C
 ```
 
 ---
+
+## Multiple-inheritance.cpp
+```
+Math Marks: 80
+Physics Marks: 75
+Sports Score: 10
+Total Score: 165
+```
+
+---
