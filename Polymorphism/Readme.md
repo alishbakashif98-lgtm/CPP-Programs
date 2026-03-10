@@ -6,3 +6,10 @@ Display of Derived
 ```
 
 ---
+
+## Virtual-function.cpp
+```
+Display of Derived class
+```
+
+---
