@@ -13,3 +13,13 @@ Display of Derived class
 ```
 
 ---
+
+## Pure-virtual-function.cpp
+```
+Innova Started
+Innova Stopped
+Swift Started
+Swift Stopped
+```
+
+---
