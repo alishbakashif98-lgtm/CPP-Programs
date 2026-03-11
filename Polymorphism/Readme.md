@@ -23,3 +23,10 @@ Swift Stopped
 ```
 
 ---
+
+## Abstract-class.cpp
+```
+Area of Rectangle
+```
+
+---
