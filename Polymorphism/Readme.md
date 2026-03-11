@@ -30,3 +30,13 @@ Area of Rectangle
 ```
 
 ---
+
+## Abstract-shape.cpp
+```
+Area of Rectangle 50
+Perimeter of Rectangle 30
+Area of Circle 314.25
+Perimeter of Circle 62.85
+```
+
+---
