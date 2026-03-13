@@ -20,3 +20,11 @@ Total Students: 3
 ```
 
 ---
+
+## inner-class.cpp
+```
+Outer class variable: 100
+Inner class variable: 50
+```
+
+---
