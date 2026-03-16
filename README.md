@@ -1,6 +1,6 @@
 # CPP-Programs
 A well-organized collection of **C++ programs** for learning and practice.  
-This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** and **Polymorphism** folder, making it easy for beginners to explore and understand C++ concepts step by step.
+This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** and **friend-static-innerClasses** folder, making it easy for beginners to explore and understand C++ concepts step by step.
 
 ## Folder Structure
 
@@ -15,3 +15,4 @@ This repository currently contains programs in the **Basics** , **Conditional-St
 - **Operator-Overloading** – Programs demonstrating operator overloading where operators are redefined to work with user-defined objects, enabling intuitive operations on class objects.
 - **Inheritance** – Programs demonstrating the concept of inheritance where derived classes acquire properties and behaviors of base classes, showing code reusability and hierarchical relationships between classes.
 - **Polymorphism** – Programs demonstrating the concept of polymorphism where the same function behaves differently for different objects, showing flexibility and dynamic behavior in object-oriented programming.
+- **friend-static-innerClasses** – Programs demonstrating the concepts of friend functions, static members, and inner classes in C++. These features allow controlled access to private data, sharing of class-level members among objects, and logical grouping of related classes within a class.
