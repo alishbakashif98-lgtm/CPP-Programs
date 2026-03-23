@@ -8,7 +8,7 @@ Sum (float): 6
 
 ---
 
-## Sum-int-float.cpp
+## Class-function-template.cpp
 ```
 Values: 2 and 3
 Sum: 5
