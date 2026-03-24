@@ -1,6 +1,6 @@
 # CPP-Programs
 A well-organized collection of **C++ programs** for learning and practice.  
-This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** , **friend-static-innerClasses** , **Exception-Handling** and **Templates** folder, making it easy for beginners to explore and understand C++ concepts step by step.
+This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** , **friend-static-innerClasses** , **Exception-Handling** , **Templates** and **const-pre-ns** folder, making it easy for beginners to explore and understand C++ concepts step by step.
 
 ## Folder Structure
 
@@ -18,3 +18,4 @@ This repository currently contains programs in the **Basics** , **Conditional-St
 - **friend-static-innerClasses** – Programs demonstrating the concepts of friend functions, static members, and inner classes in C++. These features allow controlled access to private data, sharing of class-level members among objects, and logical grouping of related classes within a class.
 - **Exception-Handling** – Programs demonstrating the concept of exception handling using try, throw, and catch blocks to handle runtime errors. It helps prevent program crashes and ensures smooth execution of the program.
 - **Templates** – Programs demonstrating the concept of templates in C++ where generic functions and classes are created to work with different data types. It helps in code reusability and reduces duplication by using a single implementation for multiple types.
+- **const-pre-ns** – Programs demonstrating the use of constants, preprocessor directives, and namespaces in C++ to improve code readability, avoid duplication, and organize code efficiently. These features help manage fixed values, perform compile-time operations, and prevent naming conflicts in programs.
