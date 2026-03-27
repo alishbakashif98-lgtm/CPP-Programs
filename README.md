@@ -1,6 +1,6 @@
 # CPP-Programs
 A well-organized collection of **C++ programs** for learning and practice.  
-This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** , **friend-static-innerClasses** , **Exception-Handling** , **Templates** and **const-pre-ns** folder, making it easy for beginners to explore and understand C++ concepts step by step.
+This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** , **friend-static-innerClasses** , **Exception-Handling** , **Templates** , **const-pre-ns** and **Destructors** folder, making it easy for beginners to explore and understand C++ concepts step by step.
 
 ## Folder Structure
 
@@ -19,3 +19,4 @@ This repository currently contains programs in the **Basics** , **Conditional-St
 - **Exception-Handling** – Programs demonstrating the concept of exception handling using try, throw, and catch blocks to handle runtime errors. It helps prevent program crashes and ensures smooth execution of the program.
 - **Templates** – Programs demonstrating the concept of templates in C++ where generic functions and classes are created to work with different data types. It helps in code reusability and reduces duplication by using a single implementation for multiple types.
 - **const-pre-ns** – Programs demonstrating the use of constants, preprocessor directives, and namespaces in C++ to improve code readability, avoid duplication, and organize code efficiently. These features help manage fixed values, perform compile-time operations, and prevent naming conflicts in programs.
+- **Destructors** – Programs demonstrating the concept of destructors in C++ where objects are automatically destroyed when they go out of scope. Destructors are used to release resources and perform cleanup tasks in a program.
