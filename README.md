@@ -1,6 +1,6 @@
 # CPP-Programs
 A well-organized collection of **C++ programs** for learning and practice.  
-This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** , **friend-static-innerClasses** , **Exception-Handling** , **Templates** , **const-pre-ns** and **Destructors** folder, making it easy for beginners to explore and understand C++ concepts step by step.
+This repository currently contains programs in the **Basics** , **Conditional-Statements** , **Loops** , **Arrays** , **Pointers** , **Strings** , **Functions** , **OOP** , **Operator-Overloading** , **Inheritance** , **Polymorphism** , **friend-static-innerClasses** , **Exception-Handling** , **Templates** , **const-pre-ns** , **Destructors** and **IO-Streams** folder, making it easy for beginners to explore and understand C++ concepts step by step.
 
 ## Folder Structure
 
@@ -20,3 +20,4 @@ This repository currently contains programs in the **Basics** , **Conditional-St
 - **Templates** – Programs demonstrating the concept of templates in C++ where generic functions and classes are created to work with different data types. It helps in code reusability and reduces duplication by using a single implementation for multiple types.
 - **const-pre-ns** – Programs demonstrating the use of constants, preprocessor directives, and namespaces in C++ to improve code readability, avoid duplication, and organize code efficiently. These features help manage fixed values, perform compile-time operations, and prevent naming conflicts in programs.
 - **Destructors** – Programs demonstrating the concept of destructors in C++ where objects are automatically destroyed when they go out of scope. Destructors are used to release resources and perform cleanup tasks in a program.
+- **IO-Streams** – Programs demonstrating the use of input and output streams in C++ to perform data input from keyboard and output to screen or files. It includes the use of cin, cout, ifstream, and ofstream for efficient data handling.
